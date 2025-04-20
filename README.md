@@ -55,6 +55,5 @@ This is a **single-page responsive React application** built as part of a front-
 - Node.js (v16+ recommended)
 - npm (v7+)
 
-### 📦 Installation
 
 
