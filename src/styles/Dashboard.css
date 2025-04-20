@@ -1,0 +1,13 @@
+.dashboard {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 2rem;
+    border-radius: 10px;
+  }
+  
+  .header img {
+    width: 100px;
+    border-radius: 50%;
+  }
+  
