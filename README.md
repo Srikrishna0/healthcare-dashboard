@@ -41,7 +41,7 @@ This is a **single-page responsive React application** built as part of a front-
 
 - `App.js`: Root component – manages state and API fetch
 - `components/ProfileCard.js`: Patient photo, name, age, contact, etc.
-- `components/Vitals.js`: Vital signs from latest diagnosis
+- `components/Vitals.js`: Vital signs from the latest diagnosis
 - `components/BloodPressureChart.js`: Chart.js rendering of systolic/diastolic BP
 - `components/DiagnosisList.js`: Current diagnosis with descriptions and status
 - `components/LabResults.js`: Lab tests list
@@ -57,7 +57,4 @@ This is a **single-page responsive React application** built as part of a front-
 
 ### 📦 Installation
 
-```bash
-git clone https://github.com/your-username/healthcare-dashboard.git
-cd healthcare-dashboard
-npm install
+
