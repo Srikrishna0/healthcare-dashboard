@@ -4,7 +4,7 @@ This is a **single-page responsive React application** built as part of a front-
 
 ---
 
-## Project Requirements (as per assignment)
+## Project Requirements
 
 - Convert **Adobe XD template** to responsive HTML using React (no Tailwind).
 - Use the **Coalition Technologies Patient API** to fetch patient data.
@@ -27,8 +27,6 @@ This is a **single-page responsive React application** built as part of a front-
 
 ## Project Structure & Workflow
 
-### Data Flow
-
 1. On load, the app makes a **GET request** to:
 2. The response contains multiple patient records — **only Jessica Taylor’s** data is selected and used.
 3. The data is then passed down as props to different components:
@@ -48,7 +46,7 @@ This is a **single-page responsive React application** built as part of a front-
 
 ---
 
-## Getting Started (For Reviewers & Developers)
+
 
 ### Prerequisites
 
